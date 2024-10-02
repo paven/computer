@@ -1,0 +1,11 @@
+#BREW
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    echo >> /Users/pg/.zprofile
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/pg/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+
+
+#computer
+git clone git@github.com:paven/computer.git
+cd computer/
+./install
