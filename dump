@@ -1,0 +1,4 @@
+brew bundle dump --file=~/Application/dump/log/Brewfile --force
+cp ./log/Brewfil  ./Brewfile_`id -un`_`scutil --get LocalHostName`
+pwd
+./commit
