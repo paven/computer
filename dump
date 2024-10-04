@@ -1,10 +1,10 @@
-mkdir dump
-mkdir tmp
-brew bundle dump --file=./dump/Brewfile --force
-cp ./dump/Brewfile  ./dump/Brewfile_`id -un`_`scutil --get LocalHostName`
-cat ./dump/Brewfile >> ./dump/Brewfile_all
-sort -u ./dump/Brewfile_all >> ./tmp/sorted
-mv ./tmp/sorted ./dump/Brewfile_all
+mkdir dump_
+mkdir tmp_
+brew bundle dump --file=./dump_/Brewfile --force
+cp ./dump_/Brewfile ./dump_/Brewfile_`id -un`_`scutil --get LocalHostName`
+cat ./dump_/Brewfile >> ./dump_/Brewfile_all
+sort -u ./dump_/Brewfile_all >> ./tmp_/sorted
+mv ./tmp_/sorted ./dump_/Brewfile_all
 rm -rf tmp
 git diff HEAD^ --color-words
 ./commit
