@@ -97,3 +97,10 @@ cask "syncthing"
 cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
+mas "Bitwarden", id: 1352778147
+mas "Browser Ninja", id: 995838410
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
