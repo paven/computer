@@ -1,4 +1,9 @@
-brew bundle dump --file=./log/Brewfile --force
-cp ./log/Brewfile  ./Brewfile_`id -un`_`scutil --get LocalHostName`
-pwd
+mkdir dump
+mkdir tmp
+brew bundle dump --file=./dump/Brewfile --force
+cp ./dump/Brewfile  ./dump/Brewfile_`id -un`_`scutil --get LocalHostName`
+cat ./dump/Brewfile >> ./dump/Brewfile_all
+sort -u ./dump/Brewfile_all >> ./tmp/sorted
+mv ./tmp/sorted ./dump/Brewfile_all
+rmdir -rf tmp
 ./commit
