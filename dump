@@ -6,4 +6,5 @@ cat ./dump/Brewfile >> ./dump/Brewfile_all
 sort -u ./dump/Brewfile_all >> ./tmp/sorted
 mv ./tmp/sorted ./dump/Brewfile_all
 rm -rf tmp
+git diff HEAD^ --color-words
 ./commit
