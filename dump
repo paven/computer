@@ -5,5 +5,5 @@ cp ./dump/Brewfile  ./dump/Brewfile_`id -un`_`scutil --get LocalHostName`
 cat ./dump/Brewfile >> ./dump/Brewfile_all
 sort -u ./dump/Brewfile_all >> ./tmp/sorted
 mv ./tmp/sorted ./dump/Brewfile_all
-rmdir -rf tmp
+rm -rf tmp
 ./commit
