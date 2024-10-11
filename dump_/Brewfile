@@ -99,6 +99,7 @@ cask "syncthing"
 cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
+cask "zoom"
 mas "Actions For Obsidian", id: 1659667937
 mas "Bitwarden", id: 1352778147
 mas "Browser Ninja", id: 995838410
@@ -113,3 +114,4 @@ mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
 mas "Shortery", id: 1594183810
 mas "SnailGit Lite", id: 1099475282
+mas "Steam Link", id: 1246969117
