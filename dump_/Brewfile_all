@@ -61,6 +61,8 @@ brew "zoxide"
 cask "0-ad"
 cask "1password"
 cask "amethyst"
+cask "android-platform-tools"
+cask "android-studio"
 cask "anki"
 cask "audacity"
 cask "authy"
@@ -125,7 +127,9 @@ mas "Actions For Obsidian", id: 1659667937
 mas "Bitwarden", id: 1352778147
 mas "Browser Ninja", id: 995838410
 mas "DaVinci Resolve", id: 571213070
+mas "Gapplin", id: 768053424
 mas "GarageBand", id: 682658836
+mas "IP Scanner", id: 6443819966
 mas "In Your Face", id: 1476964367
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
