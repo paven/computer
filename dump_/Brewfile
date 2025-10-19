@@ -10,6 +10,7 @@ brew "mosh"
 brew "neovim"
 brew "nvm"
 brew "openjdk@21", link: true
+brew "python@3.14"
 brew "syncthing"
 brew "wget"
 brew "yarn"
