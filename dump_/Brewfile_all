@@ -196,6 +196,7 @@ mas "Pocket", id: 568494494
 mas "Shortery", id: 1594183810
 mas "SnailGit Lite", id: 1099475282
 mas "Steam Link", id: 1246969117
+mas "UTM", id: 1538878817
 mas "Xcode", id: 497799835
 mas "iMovie", id: 408981434
 tap "hashicorp/tap"
