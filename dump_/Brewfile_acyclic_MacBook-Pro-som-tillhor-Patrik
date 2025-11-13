@@ -42,6 +42,7 @@ cask "obs"
 cask "obsidian"
 cask "slack"
 cask "sonos"
+cask "sourcetree"
 cask "spotify"
 cask "steam"
 cask "swiftdefaultappsprefpane"
@@ -59,6 +60,7 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Shortery", id: 1594183810
 mas "UTM", id: 1538878817
+mas "Xcode", id: 497799835
 vscode "bierner.markdown-preview-github-styles"
 vscode "codescene.codescene-vscode"
 vscode "dbaeumer.vscode-eslint"
