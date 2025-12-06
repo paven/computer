@@ -1,3 +1,4 @@
+brew "bats-core"
 brew "docker", link: false
 brew "gh"
 brew "gnu-sed"
