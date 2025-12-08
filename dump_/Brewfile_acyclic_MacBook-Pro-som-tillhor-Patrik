@@ -37,12 +37,14 @@ cask "intellij-idea"
 cask "jetbrains-toolbox"
 cask "jordanbaird-ice"
 cask "kitty"
+cask "loop"
 cask "macdown"
 cask "miro"
 cask "morgen"
 cask "notion-calendar"
 cask "obs"
 cask "obsidian"
+cask "pearcleaner"
 cask "slack"
 cask "sonos"
 cask "sourcetree"
@@ -63,7 +65,6 @@ mas "Keynote", id: 409183694
 mas "MenubarTrimmer", id: 6743372418
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "Shortcut Notch", id: 6447055708
 mas "Shortery", id: 1594183810
 mas "UTM", id: 1538878817
 mas "Xcode", id: 497799835
