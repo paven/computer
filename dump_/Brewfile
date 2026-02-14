@@ -1,4 +1,5 @@
 brew "bats-core"
+brew "copilot"
 brew "docker", link: false
 brew "gh"
 brew "gnu-sed"

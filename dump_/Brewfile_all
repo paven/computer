@@ -8,6 +8,7 @@ brew "bison"
 brew "boost"
 brew "chruby"
 brew "cocoapods"
+brew "copilot"
 brew "docker", link: false
 brew "dotenv-linter"
 brew "entr"
