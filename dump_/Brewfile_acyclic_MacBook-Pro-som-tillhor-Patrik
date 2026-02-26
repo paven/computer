@@ -1,4 +1,6 @@
+brew "awscli"
 brew "bats-core"
+brew "colima"
 brew "copilot"
 brew "docker", link: false
 brew "gh"
@@ -9,6 +11,8 @@ brew "openjdk"
 brew "gradle"
 brew "openjdk@21", link: true
 brew "gradle@8"
+brew "qemu"
+brew "lima-additional-guestagents"
 brew "mas"
 brew "maven"
 brew "mosh"
