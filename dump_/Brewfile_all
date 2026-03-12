@@ -218,6 +218,7 @@ mas "TaskForge", id: 6744716215
 mas "UTM", id: 1538878817
 mas "Xcode", id: 497799835
 mas "iMovie", id: 408981434
+tap "anomalyco/tap"
 tap "hashicorp/tap"
 tap "heroku/brew"
 tap "homebrew/bundle"
