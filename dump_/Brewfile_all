@@ -58,6 +58,7 @@ brew "neovim"
 brew "nmap"
 brew "notmuch"
 brew "nvm"
+brew "ollama", restart_service: :changed
 brew "openjdk"
 brew "openjdk@21", link: true
 brew "openssl@3"
