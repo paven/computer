@@ -1,6 +1,7 @@
 tap "anomalyco/tap"
 brew "awscli"
 brew "bats-core"
+brew "bitwarden-cli"
 brew "colima"
 brew "copilot"
 brew "docker", link: false
