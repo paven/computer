@@ -11,6 +11,7 @@ brew "gh"
 brew "gnu-sed"
 brew "gnutls"
 brew "gnupg"
+brew "go"
 brew "openjdk"
 brew "gradle"
 brew "openjdk@21", link: true
