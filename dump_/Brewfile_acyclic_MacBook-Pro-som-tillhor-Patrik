@@ -26,6 +26,7 @@ brew "ollama", restart_service: :changed
 brew "pinentry-mac"
 brew "pipx"
 brew "pngpaste"
+brew "poppler"
 brew "ripgrep"
 brew "semgrep"
 brew "syncthing"
