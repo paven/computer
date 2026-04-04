@@ -80,17 +80,6 @@ cask "voiceink"
 cask "wave"
 cask "whatsapp"
 cask "zoom"
-mas "Actions For Obsidian", id: 1659667937
-mas "Browser Ninja", id: 995838410
-mas "GarageBand", id: 682658836
-mas "iMovie", id: 408981434
-mas "Keynote", id: 409183694
-mas "MenubarTrimmer", id: 6743372418
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Shortery", id: 1594183810
-mas "TaskForge", id: 6744716215
-mas "Xcode", id: 497799835
 vscode "bierner.markdown-preview-github-styles"
 vscode "codescene.codescene-vscode"
 vscode "dbaeumer.vscode-eslint"
