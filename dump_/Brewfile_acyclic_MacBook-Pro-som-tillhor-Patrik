@@ -25,7 +25,7 @@ brew "mosh"
 brew "neovim"
 brew "nmap"
 brew "nvm"
-brew "ollama", restart_service: :changed
+brew "ollama"
 brew "pinentry-mac"
 brew "pipx"
 brew "pngpaste"
