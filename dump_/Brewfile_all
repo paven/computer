@@ -59,6 +59,7 @@ brew "neomutt"
 brew "neovim"
 brew "nmap"
 brew "notmuch"
+brew "ntfy"
 brew "nvm"
 brew "ollama"
 brew "ollama", restart_service: :changed
