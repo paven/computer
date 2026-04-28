@@ -70,6 +70,7 @@ brew "openjdk@21", link: true
 brew "openssl@3"
 brew "oven-sh/bun/bun"
 brew "pass"
+brew "pi-coding-agent"
 brew "pinentry"
 brew "pinentry-mac"
 brew "pipenv"
