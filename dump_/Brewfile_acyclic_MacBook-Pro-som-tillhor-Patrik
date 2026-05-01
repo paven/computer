@@ -1,5 +1,6 @@
 tap "anomalyco/tap"
 tap "laurentftech/ntfy-macos"
+brew "sqlite"
 brew "awscli"
 brew "bats-core"
 brew "bitwarden-cli"
