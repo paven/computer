@@ -1,0 +1,15 @@
+/Users/acyclic/.nvm/versions/node/v24.10.0/lib
+├── @aikidosec/safe-chain@1.5.0
+├── @github/copilot@0.0.344
+├── @ifi/oh-pi-ant-colony@0.5.1
+├── @mariozechner/pi-coding-agent@0.72.1
+├── @membranehq/cli@1.18.0
+├── corepack@0.34.0
+├── graph-schema-json-js-utils@1.0.0 -> ./../../../../../Documents/GitHub/neo4j/graph-schema-json-js-utils
+├── npm@11.6.1
+├── openclaw@2026.4.8
+├── sass@1.93.3
+├── vercel@50.40.0
+├── vite@7.3.1
+└── wrangler@4.78.0
+

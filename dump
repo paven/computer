@@ -5,6 +5,13 @@ cp ./dump_/Brewfile ./dump_/Brewfile_`id -un`_`scutil --get LocalHostName`
 cat ./dump_/Brewfile >> ./dump_/Brewfile_all
 sort -u ./dump_/Brewfile_all >> ./tmp_/sorted
 mv ./tmp_/sorted ./dump_/Brewfile_all
+
+npm list -g --depth=0 > ./dump_/npm_globals
+cp ./dump_/npm_globals ./dump_/npm_globals_`id -un`_`scutil --get LocalHostName`
+cat ./dump_/npm_globals >> ./dump_/npm_globals_all
+sort -u ./dump_/npm_globals_all > ./tmp_/npm_sorted
+mv ./tmp_/npm_sorted ./dump_/npm_globals_all
+
 rm -rf tmp
 git diff HEAD^ --color-words --ignore-space-change | cat
 ./commit
