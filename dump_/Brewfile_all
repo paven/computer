@@ -11,6 +11,7 @@ brew "chruby"
 brew "cocoapods"
 brew "colima"
 brew "copilot"
+brew "docker"
 brew "docker", link: false
 brew "dotenv-linter"
 brew "entr"
