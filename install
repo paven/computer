@@ -1,2 +1,5 @@
-echo "Installing new package"
+echo "Installing new brew packages"
 brew bundle "$@"
+
+echo "Installing npm global packages"
+xargs -I {} npm install -g {} < ./dump_/npm_globals_all
