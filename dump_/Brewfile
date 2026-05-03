@@ -35,6 +35,7 @@ brew "pinentry-mac"
 brew "pipx"
 brew "pngpaste"
 brew "poppler"
+brew "postgresql@16", restart_service: :changed, link: true
 brew "qrencode"
 brew "rclone"
 brew "ripgrep"
