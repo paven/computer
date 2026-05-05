@@ -30,7 +30,7 @@ brew "neovim"
 brew "nmap"
 brew "ntfy"
 brew "nvm"
-brew "ollama", restart_service: :changed
+brew "ollama"
 brew "pinentry-mac"
 brew "pipx"
 brew "pngpaste"
