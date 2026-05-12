@@ -14,6 +14,7 @@ brew "copilot"
 brew "docker"
 brew "docker", link: false
 brew "dotenv-linter"
+brew "dtach"
 brew "entr"
 brew "exercism"
 brew "fd"
