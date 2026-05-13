@@ -42,6 +42,7 @@ brew "rbenv"
 brew "rclone"
 brew "ripgrep"
 brew "semgrep"
+brew "signal-cli"
 brew "sox"
 brew "speedtest-cli"
 brew "sshpass"
@@ -102,7 +103,6 @@ cask "whatsapp"
 cask "zoom"
 mas "Actions For Obsidian", id: 1659667937
 mas "Browser Ninja", id: 995838410
-mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "MenubarTrimmer", id: 6743372418
