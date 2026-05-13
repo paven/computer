@@ -111,6 +111,7 @@ mas "Pages", id: 409201541
 mas "Shortery", id: 1594183810
 mas "TaskForge", id: 6744716215
 mas "WireGuard", id: 1451685025
+mas "Xcode", id: 497799835
 vscode "bierner.markdown-preview-github-styles"
 vscode "codescene.codescene-vscode"
 vscode "dbaeumer.vscode-eslint"
