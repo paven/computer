@@ -1,4 +1,5 @@
 brew "abook"
+brew "age"
 brew "ansible"
 brew "aria2"
 brew "automake"
