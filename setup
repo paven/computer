@@ -4,6 +4,10 @@
     echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/pg/.zprofile
     eval "$(/opt/homebrew/bin/brew shellenv)"
 
+#SYSTEM
+# To allow a specific unsigned app (Gatekeeper disabled UI on macOS Tahoe+):
+# xattr -rd com.apple.quarantine /Applications/SomeApp.app
+
 #MAS
 brew install mas
 
