@@ -1,5 +1,5 @@
 /opt/homebrew/lib
-+-- @ifi/oh-pi-ant-colony@0.5.1
++-- @ifi/pi-extension-subagents@0.5.1
 +-- @juicesharp/rpiv-advisor@1.6.1
 +-- @juicesharp/rpiv-args@1.6.1
 +-- @juicesharp/rpiv-ask-user-question@1.6.1
@@ -9,6 +9,5 @@
 +-- @llblab/pi-telegram@0.10.3
 +-- npm@11.12.1
 +-- pi-kanban@1.0.0
-+-- pi-mcp-adapter@2.6.1
-`-- pi-subagentura@1.0.5
+`-- pi-mcp-adapter@2.6.1
 
