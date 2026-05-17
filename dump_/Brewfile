@@ -34,7 +34,7 @@ brew "nmap"
 brew "node@24"
 brew "ntfy"
 brew "nvm"
-brew "ollama"
+brew "ollama", restart_service: :changed
 brew "pinentry-mac"
 brew "pipx"
 brew "pngpaste"
