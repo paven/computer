@@ -2,13 +2,21 @@
 +-- @ifi/oh-pi-ant-colony@0.5.1
 +-- @ifi/pi-extension-subagents@0.5.1
 +-- @juicesharp/rpiv-advisor@1.6.1
++-- @juicesharp/rpiv-advisor@1.9.1
 +-- @juicesharp/rpiv-args@1.6.1
++-- @juicesharp/rpiv-args@1.9.1
 +-- @juicesharp/rpiv-ask-user-question@1.6.1
++-- @juicesharp/rpiv-ask-user-question@1.9.1
 +-- @juicesharp/rpiv-btw@1.6.1
++-- @juicesharp/rpiv-btw@1.9.1
 +-- @juicesharp/rpiv-todo@1.6.1
++-- @juicesharp/rpiv-todo@1.9.1
 +-- @juicesharp/rpiv-web-tools@1.6.1
++-- @juicesharp/rpiv-web-tools@1.9.1
 +-- @llblab/pi-telegram@0.10.3
++-- @llblab/pi-telegram@0.11.2
 +-- npm@11.12.1
++-- pi-cmux@0.1.8
 +-- pi-kanban@1.0.0
 +-- pi-mcp-adapter@2.6.1
 /Users/acyclic/.nvm/versions/node/v24.10.0/lib

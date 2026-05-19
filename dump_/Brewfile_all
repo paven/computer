@@ -257,6 +257,17 @@ mas "UTM", id: 1538878817
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 mas "iMovie", id: 408981434
+npm "@ifi/pi-extension-subagents"
+npm "@juicesharp/rpiv-advisor"
+npm "@juicesharp/rpiv-args"
+npm "@juicesharp/rpiv-ask-user-question"
+npm "@juicesharp/rpiv-btw"
+npm "@juicesharp/rpiv-todo"
+npm "@juicesharp/rpiv-web-tools"
+npm "@llblab/pi-telegram"
+npm "pi-cmux"
+npm "pi-kanban"
+npm "pi-mcp-adapter"
 tap "anomalyco/tap"
 tap "hashicorp/tap"
 tap "heroku/brew"
