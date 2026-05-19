@@ -1,3 +1,4 @@
+tap "acyclic-eu/eijii"
 tap "anomalyco/tap"
 tap "laurentftech/ntfy-macos"
 brew "age"
