@@ -27,6 +27,7 @@
 +-- @juicesharp/rpiv-web-tools@1.9.1
 +-- @llblab/pi-telegram@0.10.3
 +-- @llblab/pi-telegram@0.11.2
++-- @marp-team/marp-cli@4.4.0
 +-- @ollama/pi-web-search@0.0.5
 +-- npm@11.12.1
 +-- pi-cmux@0.1.8
