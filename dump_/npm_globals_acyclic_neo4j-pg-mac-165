@@ -13,5 +13,6 @@
 +-- pi-cmux@0.1.8
 +-- pi-kanban@1.0.0
 +-- pi-mcp-adapter@2.6.1
-`-- pi-peon-ping@0.2.0
++-- pi-peon-ping@0.2.0
+`-- pnpm@11.2.2
 

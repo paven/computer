@@ -33,12 +33,14 @@
 +-- pi-cmux@0.1.8
 +-- pi-kanban@1.0.0
 +-- pi-mcp-adapter@2.6.1
++-- pi-peon-ping@0.2.0
 /Users/acyclic/.nvm/versions/node/v24.10.0/lib
 /opt/homebrew/lib
 `-- npm@11.12.1
 `-- pi-mcp-adapter@2.6.1
 `-- pi-peon-ping@0.2.0
 `-- pi-subagentura@1.0.5
+`-- pnpm@11.2.2
 └── wrangler@4.78.0
 ├── @aikidosec/safe-chain@1.5.0
 ├── @github/copilot@0.0.344
