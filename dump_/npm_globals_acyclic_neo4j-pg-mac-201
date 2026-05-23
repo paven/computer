@@ -1,0 +1,18 @@
+/opt/homebrew/lib
++-- @ifi/pi-extension-subagents@0.5.1
++-- @juicesharp/rpiv-advisor@1.11.0
++-- @juicesharp/rpiv-args@1.11.0
++-- @juicesharp/rpiv-ask-user-question@1.11.0
++-- @juicesharp/rpiv-btw@1.11.0
++-- @juicesharp/rpiv-todo@1.11.0
++-- @juicesharp/rpiv-web-tools@1.11.0
++-- @llblab/pi-telegram@0.11.2
++-- @marp-team/marp-cli@4.4.0
++-- @ollama/pi-web-search@0.0.5
++-- npm@11.12.1
++-- pi-cmux@0.1.8
++-- pi-kanban@1.0.0
++-- pi-mcp-adapter@2.6.1
++-- pi-peon-ping@0.2.0
+`-- pnpm@11.2.2
+
