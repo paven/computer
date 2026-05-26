@@ -1,6 +1,7 @@
 
 +-- @ifi/oh-pi-ant-colony@0.5.1
 +-- @ifi/pi-extension-subagents@0.5.1
++-- @jfim/obsidian-tasks-mcp@0.1.7
 +-- @juicesharp/rpiv-advisor@1.10.2
 +-- @juicesharp/rpiv-advisor@1.11.0
 +-- @juicesharp/rpiv-advisor@1.12.0
