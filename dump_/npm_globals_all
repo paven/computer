@@ -36,6 +36,7 @@
 +-- @llblab/pi-telegram@0.13.0
 +-- @marp-team/marp-cli@4.4.0
 +-- @ollama/pi-web-search@0.0.5
++-- decktape@3.16.1
 +-- npm@11.12.1
 +-- pi-cmux@0.1.8
 +-- pi-kanban@1.0.0
