@@ -25,6 +25,7 @@ brew "openjdk"
 brew "gradle"
 brew "openjdk@21", link: true
 brew "gradle@8"
+brew "grip"
 brew "imagemagick"
 brew "jq"
 brew "qemu"
