@@ -123,6 +123,7 @@ cask "whatsapp"
 cask "zoom"
 mas "Actions For Obsidian", id: 1659667937
 mas "Browser Ninja", id: 995838410
+mas "Draw Things", id: 6444050820
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "MenubarTrimmer", id: 6743372418
