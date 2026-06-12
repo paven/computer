@@ -1,3 +1,115 @@
+# 'traceroute' and 'ping' in a single tool
+# AI agent session manager - alpha channel
+# AI agent session manager - beta channel
+# Additional guest agents for Lima
+# All-in-one calendars, tasks and scheduler
+# Ambitious Vim-fork focused on extensibility and agility
+# Android SDK component
+# Anthropic's official Claude AI desktop app
+# App to build and share containerised applications and microservices
+# Automatic tiling window manager similar to xmonad
+# Bash Automated Testing System
+# CLI and dbus interface for WhisperSystems/libsignal-service-java
+# CLI tool for Amazon ECS and AWS Fargate
+# Calendar for professionals and teams
+# Client for the Google Drive storage service
+# Collaborative team software
+# Command-line fuzzy finder written in Go
+# Command-line interface for https://speedtest.net bandwidth tests
+# Command-line tool to interact with Gitea servers
+# Container runtimes on MacOS (and Linux) with minimal setup
+# Control your Sonos system
+# Create, run, and share large language models (LLMs)
+# Cross-shell prompt for astronauts
+# Desktop client for GitHub repositories
+# Desktop password and login vault
+# Development kit for the Java programming language
+# Easily detect and prevent bugs and anti-patterns in your codebase
+# Eclipse integrated development environment
+# Emulates the detach feature of screen
+# Execute binaries from Python packages in isolated environments
+# File system integration
+# Fish shell like syntax highlighting for zsh
+# Fish-like fast/unobtrusive autosuggestions for zsh
+# GNU Privacy Guard (OpenPGP)
+# GNU Transport Layer Security (TLS) Library
+# GNU implementation of the famous stream editor
+# GPU-accelerated cross-platform terminal emulator and multiplexer
+# GPU-based terminal emulator
+# Generic machine emulator and virtualizer
+# Ghostty-based terminal with vertical tabs and notifications for AI coding agents
+# GitHub Markdown previewer
+# GitHub command-line tool
+# Graphical client for Git version control
+# Internet file retriever
+# Interpreted, interactive, object-oriented programming language
+# JDK from the Eclipse Foundation (Adoptium)
+# Java IDE by JetBrains
+# Java-based project management
+# JavaScript package manager
+# JetBrains tools manager
+# Knowledge base that works on top of a local folder of plain text Markdown files
+# Lightweight and flexible command-line JSON processor
+# Mac App Store command-line interface
+# Manage multiple Node.js versions
+# Matrix collaboration client
+# Menu bar manager
+# Minimal CLI coding agent
+# Multimedia player
+# Multipurpose automation tool for content
+# Music streaming service
+# Native desktop client for WhatsApp
+# Non-interactive SSH password auth
+# Official Amazon AWS command-line interface
+# Online collaborative whiteboard platform
+# Open source continuous file synchronization application
+# Open source programming language to build simple/reliable/efficient software
+# Open-source Markdown editor
+# Open-source build automation tool based on the Groovy and Kotlin DSL
+# Open-source code editor
+# Open-source software for live streaming and screen recording
+# Open-source, cross-platform JavaScript runtime environment
+# PDF rendering library (based on the xpdf-3.0 code base)
+# Pack, ship and run any application as a lightweight container
+# Password manager app
+# Paste PNG into files
+# Pinentry for GPG on Mac
+# Play, record, convert, and stream select audio and video codecs
+# Port of OpenAI's Whisper model in C/C++
+# Port scanning utility for large networks
+# QR Code generation
+# Real time file synchronisation software
+# Remote terminal application
+# Replacement for RCDefaultApps, written in Swift
+# Rsync for cloud storage
+# Ruby version manager
+# Rust-based terminal
+# SOund eXchange: universal sound sample translator
+# Search tool like grep and The Silver Searcher
+# Secure and free password manager for all of your devices
+# Send push notifications to your phone or desktop via PUT/POST
+# Shell extension to navigate your filesystem faster
+# Simple, modern, secure file encryption
+# Team communication and collaboration software
+# Terminal emulator
+# Terminal emulator that uses platform-native UI and GPU acceleration
+# Terminal emulator, SSH and serial client
+# Terminal multiplexer
+# Terminal-based AI coding assistant
+# Tools and libraries to manipulate images in select formats
+# Tools for building Android applications
+# Tools for the WireGuard secure network tunnel
+# Tracks most-used directories to make cd smarter
+# Unified GUI for command-line AI agents
+# Utility to uninstall apps and remove leftover files from old/uninstalled apps
+# Video communication and virtual meeting platform
+# Video game digital distribution service
+# Visual client for Helix Core
+# Visual diff and merge tool
+# Voice and text chat software
+# Web browser
+# Window manager
+# Zsh port of Fish shell's history search
 brew "abook"
 brew "age"
 brew "ansible"
