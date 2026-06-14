@@ -62,8 +62,6 @@ brew "mas"
 brew "maven"
 # Minimal CLI coding agent
 brew "mistral-vibe"
-# Remote terminal application
-brew "mosh"
 # 'traceroute' and 'ping' in a single tool
 brew "mtr"
 # Ambitious Vim-fork focused on extensibility and agility
@@ -106,8 +104,6 @@ brew "speedtest-cli"
 brew "sshpass"
 # Cross-shell prompt for astronauts
 brew "starship"
-# Open source continuous file synchronization application
-brew "syncthing"
 # Command-line tool to interact with Gitea servers
 brew "tea"
 # Terminal multiplexer
