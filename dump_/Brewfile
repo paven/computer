@@ -3,7 +3,7 @@ tap "acyclic-eu/eijii"
 tap "anomalyco/tap"
 tap "charmbracelet/tap"
 tap "laurentftech/ntfy-macos"
-tap "peonping/tap"
+tap "peonping/tap", "https://github.com/PeonPing/homebrew-tap"
 # Simple, modern, secure file encryption
 brew "age"
 # Interpreted, interactive, object-oriented programming language
