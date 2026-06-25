@@ -108,6 +108,8 @@ brew "sshpass"
 brew "starship"
 # Open source continuous file synchronization application
 brew "syncthing"
+# Easiest, most secure way to use WireGuard and 2FA
+brew "tailscale"
 # Command-line tool to interact with Gitea servers
 brew "tea"
 # Terminal multiplexer
@@ -216,8 +218,6 @@ cask "steam"
 cask "swiftdefaultappsprefpane"
 # Real time file synchronisation software
 cask "syncthing-app"
-# Terminal emulator, SSH and serial client
-cask "tabby"
 # JDK from the Eclipse Foundation (Adoptium)
 cask "temurin@21"
 # Open-source code editor

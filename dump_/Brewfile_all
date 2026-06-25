@@ -24,6 +24,7 @@
 # Desktop client for GitHub repositories
 # Desktop password and login vault
 # Development kit for the Java programming language
+# Easiest, most secure way to use WireGuard and 2FA
 # Easily detect and prevent bugs and anti-patterns in your codebase
 # Eclipse integrated development environment
 # Emulates the detach feature of screen
@@ -226,6 +227,7 @@ brew "starship"
 brew "stow"
 brew "swift-format"
 brew "syncthing"
+brew "tailscale"
 brew "tea"
 brew "tesseract"
 brew "tmux"
