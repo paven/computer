@@ -355,6 +355,7 @@ cask "wave"
 cask "wezterm"
 cask "whatsapp"
 cask "zoom"
+go "github.com/Southclaws/schemancer"
 mas "Actions For Obsidian", id: 1659667937
 mas "Bitwarden", id: 1352778147
 mas "Browser Ninja", id: 995838410
