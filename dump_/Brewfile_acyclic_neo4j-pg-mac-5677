@@ -1,0 +1,314 @@
+tap "acyclic-eu/apps"
+tap "acyclic-eu/eijii"
+tap "anomalyco/tap"
+tap "charmbracelet/tap"
+tap "laurentftech/ntfy-macos"
+tap "peonping/tap", "https://github.com/PeonPing/homebrew-tap"
+# Simple, modern, secure file encryption
+brew "age"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.14"
+# Official Amazon AWS command-line interface
+brew "awscli"
+# Bash Automated Testing System
+brew "bats-core"
+# Secure and free password manager for all of your devices
+brew "bitwarden-cli"
+# Container runtimes on MacOS (and Linux) with minimal setup
+brew "colima"
+# CLI tool for Amazon ECS and AWS Fargate
+brew "copilot"
+# Pack, ship and run any application as a lightweight container
+brew "docker"
+# Emulates the detach feature of screen
+brew "dtach"
+# Play, record, convert, and stream select audio and video codecs
+brew "ffmpeg"
+# Multipurpose automation tool for content
+brew "flexget"
+# Command-line fuzzy finder written in Go
+brew "fzf"
+# GitHub command-line tool
+brew "gh"
+# GNU implementation of the famous stream editor
+brew "gnu-sed"
+# GNU Transport Layer Security (TLS) Library
+brew "gnutls"
+# GNU Privacy Guard (OpenPGP)
+brew "gnupg"
+# Open source programming language to build simple/reliable/efficient software
+brew "go"
+# Development kit for the Java programming language
+brew "openjdk"
+# Open-source build automation tool based on the Groovy and Kotlin DSL
+brew "gradle"
+# Development kit for the Java programming language
+brew "openjdk@21", link: true
+# Open-source build automation tool based on the Groovy and Kotlin DSL
+brew "gradle@8"
+# GitHub Markdown previewer
+brew "grip"
+# Tools and libraries to manipulate images in select formats
+brew "imagemagick"
+# Lightweight and flexible command-line JSON processor
+brew "jq"
+# Generic machine emulator and virtualizer
+brew "qemu"
+# Additional guest agents for Lima
+brew "lima-additional-guestagents"
+# Mac App Store command-line interface
+brew "mas"
+# Java-based project management
+brew "maven"
+# Minimal CLI coding agent
+brew "mistral-vibe"
+# Remote terminal application
+brew "mosh"
+# 'traceroute' and 'ping' in a single tool
+brew "mtr"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
+# Port scanning utility for large networks
+brew "nmap"
+# Open-source, cross-platform JavaScript runtime environment
+brew "node@24"
+# Send push notifications to your phone or desktop via PUT/POST
+brew "ntfy"
+# Manage multiple Node.js versions
+brew "nvm"
+# Create, run, and share large language models (LLMs)
+brew "ollama", restart_service: :changed
+# Pinentry for GPG on Mac
+brew "pinentry-mac"
+# Execute binaries from Python packages in isolated environments
+brew "pipx"
+# Paste PNG into files
+brew "pngpaste"
+# PDF rendering library (based on the xpdf-3.0 code base)
+brew "poppler"
+# QR Code generation
+brew "qrencode"
+# Ruby version manager
+brew "rbenv"
+# Rsync for cloud storage
+brew "rclone"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
+# Easily detect and prevent bugs and anti-patterns in your codebase
+brew "semgrep"
+# CLI and dbus interface for WhisperSystems/libsignal-service-java
+brew "signal-cli"
+# SOund eXchange: universal sound sample translator
+brew "sox"
+# Command-line interface for https://speedtest.net bandwidth tests
+brew "speedtest-cli"
+# Non-interactive SSH password auth
+brew "sshpass"
+# Cross-shell prompt for astronauts
+brew "starship"
+# Open source continuous file synchronization application
+brew "syncthing"
+# Easiest, most secure way to use WireGuard and 2FA
+brew "tailscale"
+# Command-line tool to interact with Gitea servers
+brew "tea"
+# Terminal multiplexer
+brew "tmux"
+# Internet file retriever
+brew "wget"
+# Port of OpenAI's Whisper model in C/C++
+brew "whisper-cpp"
+# Tools for the WireGuard secure network tunnel
+brew "wireguard-tools"
+# JavaScript package manager
+brew "yarn"
+# Tracks most-used directories to make cd smarter
+brew "z"
+# Shell extension to navigate your filesystem faster
+brew "zoxide"
+# Fish-like fast/unobtrusive autosuggestions for zsh
+brew "zsh-autosuggestions"
+# Zsh port of Fish shell's history search
+brew "zsh-history-substring-search"
+# Fish shell like syntax highlighting for zsh
+brew "zsh-syntax-highlighting"
+# Unified GUI for command-line AI agents
+cask "aionui"
+# Automatic tiling window manager similar to xmonad
+cask "amethyst"
+# Android SDK component
+cask "android-platform-tools"
+# Tools for building Android applications
+cask "android-studio"
+# Desktop password and login vault
+cask "bitwarden"
+# Anthropic's official Claude AI desktop app
+cask "claude"
+# Terminal-based AI coding assistant
+cask "claude-code"
+# Ghostty-based terminal with vertical tabs and notifications for AI coding agents
+cask "cmux"
+# Voice and text chat software
+cask "discord"
+# App to build and share containerised applications and microservices
+cask "docker-desktop"
+# Eclipse integrated development environment
+cask "eclipse-ide"
+# AI agent session manager - alpha channel
+cask "acyclic-eu/apps/eijii-alpha"
+# AI agent session manager - beta channel
+cask "acyclic-eu/apps/eijii-beta"
+# Matrix collaboration client
+cask "element"
+# Collaborative team software
+cask "figma"
+# Web browser
+cask "firefox"
+# Terminal emulator that uses platform-native UI and GPU acceleration
+cask "ghostty"
+# Desktop client for GitHub repositories
+cask "github"
+# Web browser
+cask "google-chrome"
+# Client for the Google Drive storage service
+cask "google-drive"
+# Java IDE by JetBrains
+cask "intellij-idea"
+# JetBrains tools manager
+cask "jetbrains-toolbox"
+# Menu bar manager
+cask "jordanbaird-ice"
+# Password manager app
+cask "keepassxc"
+# GPU-based terminal emulator
+cask "kitty"
+# Window manager
+cask "loop"
+# Open-source Markdown editor
+cask "macdown"
+# File system integration
+cask "macfuse"
+# Visual diff and merge tool
+cask "meld"
+# Online collaborative whiteboard platform
+cask "miro"
+# All-in-one calendars, tasks and scheduler
+cask "morgen"
+# Calendar for professionals and teams
+cask "notion-calendar"
+# Open-source software for live streaming and screen recording
+cask "obs"
+# Knowledge base that works on top of a local folder of plain text Markdown files
+cask "obsidian"
+# Visual client for Helix Core
+cask "p4v"
+# Utility to uninstall apps and remove leftover files from old/uninstalled apps
+cask "pearcleaner"
+# Team communication and collaboration software
+cask "slack"
+# Control your Sonos system
+cask "sonos"
+# Graphical client for Git version control
+cask "sourcetree"
+# Music streaming service
+cask "spotify"
+# Video game digital distribution service
+cask "steam"
+# Replacement for RCDefaultApps, written in Swift
+cask "swiftdefaultappsprefpane"
+# Real time file synchronisation software
+cask "syncthing-app"
+# JDK from the Eclipse Foundation (Adoptium)
+cask "temurin@21"
+# Open-source code editor
+cask "visual-studio-code@insiders"
+# Multimedia player
+cask "vlc"
+# Rust-based terminal
+cask "warp"
+# Terminal emulator
+cask "wave"
+# GPU-accelerated cross-platform terminal emulator and multiplexer
+cask "wezterm"
+# Native desktop client for WhatsApp
+cask "whatsapp"
+# Video communication and virtual meeting platform
+cask "zoom"
+mas "Actions For Obsidian", id: 1659667937
+mas "Browser Ninja", id: 995838410
+mas "Draw Things", id: 6444050820
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "MenubarTrimmer", id: 6743372418
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "QR Capture", id: 1369524274
+mas "Shortery", id: 1594183810
+mas "TaskForge", id: 6744716215
+mas "WireGuard", id: 1451685025
+mas "Xcode", id: 497799835
+vscode "bierner.markdown-preview-github-styles"
+vscode "codescene.codescene-vscode"
+vscode "dbaeumer.vscode-eslint"
+vscode "dedsec727.jekyll-run"
+vscode "docker.docker"
+vscode "eamodio.gitlens"
+vscode "editorconfig.editorconfig"
+vscode "esbenp.prettier-vscode"
+vscode "fwcd.kotlin"
+vscode "github.remotehub"
+vscode "github.vscode-github-actions"
+vscode "github.vscode-pull-request-github"
+vscode "kargware.vscode-extension-jekyll-kw"
+vscode "mathiasfrohlich.kotlin"
+vscode "mechatroner.rainbow-csv"
+vscode "ms-azuretools.vscode-containers"
+vscode "ms-azuretools.vscode-docker"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-python.vscode-python-envs"
+vscode "ms-vscode-remote.remote-containers"
+vscode "ms-vscode.azure-repos"
+vscode "ms-vscode.remote-repositories"
+vscode "ms-vsliveshare.vsliveshare"
+vscode "osteele.jekyll"
+vscode "oxc.oxc-vscode"
+vscode "redhat.fabric8-analytics"
+vscode "redhat.java"
+vscode "scala-lang.scala"
+vscode "scalameta.metals"
+vscode "sissel.shopify-liquid"
+vscode "styled-components.vscode-styled-components"
+vscode "visualstudioexptteam.intellicode-api-usage-examples"
+vscode "visualstudioexptteam.vscodeintellicode"
+vscode "vmware.vscode-boot-dev-pack"
+vscode "vmware.vscode-spring-boot"
+vscode "vscjava.vscode-gradle"
+vscode "vscjava.vscode-java-debug"
+vscode "vscjava.vscode-java-dependency"
+vscode "vscjava.vscode-java-pack"
+vscode "vscjava.vscode-java-test"
+vscode "vscjava.vscode-maven"
+vscode "vscjava.vscode-spring-boot-dashboard"
+vscode "vscjava.vscode-spring-initializr"
+vscode "xabikos.reactsnippets"
+vscode "yzane.markdown-pdf"
+go "github.com/Southclaws/schemancer"
+npm "@ifi/pi-extension-subagents"
+npm "@jfim/obsidian-tasks-mcp"
+npm "@juicesharp/rpiv-advisor"
+npm "@juicesharp/rpiv-args"
+npm "@juicesharp/rpiv-ask-user-question"
+npm "@juicesharp/rpiv-btw"
+npm "@juicesharp/rpiv-todo"
+npm "@juicesharp/rpiv-web-tools"
+npm "@llblab/pi-telegram"
+npm "@marp-team/marp-cli"
+npm "@ollama/pi-web-search"
+npm "decktape"
+npm "pi-cmux"
+npm "pi-kanban"
+npm "pi-mcp-adapter"
+npm "pi-peon-ping"
+npm "pnpm"
