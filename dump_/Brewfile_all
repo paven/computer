@@ -2,6 +2,7 @@
 # AI agent session manager - alpha channel
 # AI agent session manager - beta channel
 # Additional guest agents for Lima
+# Agent multiplexer that lives in your terminal
 # All-in-one calendars, tasks and scheduler
 # Ambitious Vim-fork focused on extensibility and agility
 # Android SDK component
@@ -150,6 +151,7 @@ brew "handbrake"
 brew "harfbuzz"
 brew "hashicorp/tap/terraform"
 brew "hashicorp/tap/vault"
+brew "herdr"
 brew "heroku/brew/heroku"
 brew "htop"
 brew "httpie"

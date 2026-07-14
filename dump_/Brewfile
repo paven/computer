@@ -48,6 +48,8 @@ brew "openjdk@21", link: true
 brew "gradle@8"
 # GitHub Markdown previewer
 brew "grip"
+# Agent multiplexer that lives in your terminal
+brew "herdr"
 # Tools and libraries to manipulate images in select formats
 brew "imagemagick"
 # Lightweight and flexible command-line JSON processor
