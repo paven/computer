@@ -156,10 +156,8 @@ cask "discord"
 cask "docker-desktop"
 # Eclipse integrated development environment
 cask "eclipse-ide"
-# AI agent session manager - alpha channel
-cask "acyclic-eu/apps/eijii-alpha"
-# AI agent session manager - beta channel
-cask "acyclic-eu/apps/eijii-beta"
+cask "eijii-alpha"
+cask "eijii-beta"
 # Matrix collaboration client
 cask "element"
 # Collaborative team software
