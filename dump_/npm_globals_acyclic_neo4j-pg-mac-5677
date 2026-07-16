@@ -10,11 +10,13 @@
 +-- @llblab/pi-telegram@0.22.1
 +-- @marp-team/marp-cli@4.4.0
 +-- @ollama/pi-web-search@0.0.5
++-- bun@1.3.14
 +-- decktape@3.16.1
-+-- npm@11.12.1
++-- npm@11.17.0
 +-- pi-cmux@0.1.16
 +-- pi-kanban@1.0.0
 +-- pi-mcp-adapter@2.11.0
 +-- pi-peon-ping@0.2.0
-`-- pnpm@11.2.2
++-- pnpm@11.2.2
+`-- turborepo-nx@0.0.0 -> ./../../../Users/acyclic/Documents/GitHub/worktree/ontologies-tab
 

@@ -1,6 +1,7 @@
 # 'traceroute' and 'ping' in a single tool
 # AI agent session manager - alpha channel
 # AI agent session manager - beta channel
+# AI coding agent, built for the terminal
 # Additional guest agents for Lima
 # Agent multiplexer that lives in your terminal
 # All-in-one calendars, tasks and scheduler
@@ -69,6 +70,7 @@
 # Open-source Markdown editor
 # Open-source build automation tool based on the Groovy and Kotlin DSL
 # Open-source code editor
+# Open-source firewall to block unknown outgoing connections
 # Open-source software for live streaming and screen recording
 # Open-source, cross-platform JavaScript runtime environment
 # PDF rendering library (based on the xpdf-3.0 code base)
@@ -187,6 +189,7 @@ brew "ntfy"
 brew "nvm"
 brew "ollama"
 brew "ollama", restart_service: :changed
+brew "opencode"
 brew "openjdk"
 brew "openjdk@21", link: true
 brew "openssl@3"
@@ -315,6 +318,7 @@ cask "krita"
 cask "local"
 cask "loom"
 cask "loop"
+cask "lulu"
 cask "macdown"
 cask "macfuse"
 cask "marta"
@@ -398,12 +402,14 @@ npm "@juicesharp/rpiv-web-tools"
 npm "@llblab/pi-telegram"
 npm "@marp-team/marp-cli"
 npm "@ollama/pi-web-search"
+npm "bun"
 npm "decktape"
 npm "pi-cmux"
 npm "pi-kanban"
 npm "pi-mcp-adapter"
 npm "pi-peon-ping"
 npm "pnpm"
+npm "turborepo-nx"
 tap "acyclic-eu/apps"
 tap "acyclic-eu/eijii"
 tap "anomalyco/tap"

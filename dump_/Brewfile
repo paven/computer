@@ -80,6 +80,10 @@ brew "ntfy"
 brew "nvm"
 # Create, run, and share large language models (LLMs)
 brew "ollama", restart_service: :changed
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
+# AI coding agent, built for the terminal
+brew "opencode"
 # Pinentry for GPG on Mac
 brew "pinentry-mac"
 # Execute binaries from Python packages in isolated environments
@@ -94,8 +98,6 @@ brew "qrencode"
 brew "rbenv"
 # Rsync for cloud storage
 brew "rclone"
-# Search tool like grep and The Silver Searcher
-brew "ripgrep"
 # Easily detect and prevent bugs and anti-patterns in your codebase
 brew "semgrep"
 # CLI and dbus interface for WhisperSystems/libsignal-service-java
@@ -184,6 +186,8 @@ cask "keepassxc"
 cask "kitty"
 # Window manager
 cask "loop"
+# Open-source firewall to block unknown outgoing connections
+cask "lulu"
 # Open-source Markdown editor
 cask "macdown"
 # File system integration
@@ -307,9 +311,11 @@ npm "@juicesharp/rpiv-web-tools"
 npm "@llblab/pi-telegram"
 npm "@marp-team/marp-cli"
 npm "@ollama/pi-web-search"
+npm "bun"
 npm "decktape"
 npm "pi-cmux"
 npm "pi-kanban"
 npm "pi-mcp-adapter"
 npm "pi-peon-ping"
 npm "pnpm"
+npm "turborepo-nx"
