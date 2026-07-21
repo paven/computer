@@ -18,6 +18,8 @@ brew "bitwarden-cli"
 brew "colima"
 # CLI tool for Amazon ECS and AWS Fargate
 brew "copilot"
+# Utility to configure multi-display resolutions and arrangements
+brew "displayplacer"
 # Pack, ship and run any application as a lightweight container
 brew "docker"
 # Emulates the detach feature of screen
@@ -144,6 +146,8 @@ cask "amethyst"
 cask "android-platform-tools"
 # Tools for building Android applications
 cask "android-studio"
+# Display management tool
+cask "betterdisplay"
 # Desktop password and login vault
 cask "bitwarden"
 # Anthropic's official Claude AI desktop app
@@ -152,6 +156,8 @@ cask "claude"
 cask "claude-code"
 # Ghostty-based terminal with vertical tabs and notifications for AI coding agents
 cask "cmux"
+# Customise mouse movements between multiple displays
+cask "cursr"
 # Voice and text chat software
 cask "discord"
 # App to build and share containerised applications and microservices

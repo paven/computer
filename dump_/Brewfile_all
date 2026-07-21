@@ -23,9 +23,11 @@
 # Control your Sonos system
 # Create, run, and share large language models (LLMs)
 # Cross-shell prompt for astronauts
+# Customise mouse movements between multiple displays
 # Desktop client for GitHub repositories
 # Desktop password and login vault
 # Development kit for the Java programming language
+# Display management tool
 # Easiest, most secure way to use WireGuard and 2FA
 # Easily detect and prevent bugs and anti-patterns in your codebase
 # Eclipse integrated development environment
@@ -105,6 +107,7 @@
 # Tools for the WireGuard secure network tunnel
 # Tracks most-used directories to make cd smarter
 # Unified GUI for command-line AI agents
+# Utility to configure multi-display resolutions and arrangements
 # Utility to uninstall apps and remove leftover files from old/uninstalled apps
 # Video communication and virtual meeting platform
 # Video game digital distribution service
@@ -129,6 +132,7 @@ brew "chruby"
 brew "cocoapods"
 brew "colima"
 brew "copilot"
+brew "displayplacer"
 brew "docker"
 brew "docker", link: false
 brew "dotenv-linter"
@@ -268,6 +272,7 @@ cask "anki"
 cask "audacity"
 cask "authy"
 cask "bartender"
+cask "betterdisplay"
 cask "bitwarden"
 cask "blender"
 cask "calibre"
@@ -277,6 +282,7 @@ cask "claude-code"
 cask "cleanshot"
 cask "cmux"
 cask "curseforge"
+cask "cursr"
 cask "cyberduck"
 cask "discord"
 cask "docker"
