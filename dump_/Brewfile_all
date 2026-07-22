@@ -24,6 +24,7 @@
 # Create, run, and share large language models (LLMs)
 # Cross-shell prompt for astronauts
 # Customise mouse movements between multiple displays
+# Desktop automation application
 # Desktop client for GitHub repositories
 # Desktop password and login vault
 # Development kit for the Java programming language
@@ -307,6 +308,7 @@ cask "godot"
 cask "google-chrome"
 cask "google-drive"
 cask "gpodder"
+cask "hammerspoon"
 cask "handbrake"
 cask "handbrake-app"
 cask "hiddenbar"
