@@ -256,7 +256,10 @@ mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 vscode "anysphere.remote-containers"
 vscode "anysphere.remote-ssh"
+vscode "dbaeumer.vscode-eslint"
 vscode "eamodio.gitlens"
+vscode "esbenp.prettier-vscode"
+vscode "k--kato.intellij-idea-keybindings"
 vscode "lkqm.gitblame-annotations"
 vscode "markdown-inline-preview.markdown-inline-preview"
 vscode "ms-playwright.playwright"
