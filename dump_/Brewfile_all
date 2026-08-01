@@ -374,6 +374,7 @@ cask "zoom"
 go "github.com/Southclaws/schemancer"
 mas "Actions For Obsidian", id: 1659667937
 mas "Bitwarden", id: 1352778147
+mas "Bredbandskollen", id: 1147976909
 mas "Browser Ninja", id: 995838410
 mas "DaVinci Resolve", id: 571213070
 mas "Draw Things", id: 6444050820
