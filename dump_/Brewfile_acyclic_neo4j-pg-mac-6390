@@ -30,6 +30,8 @@ brew "ffmpeg"
 brew "flexget"
 # Command-line fuzzy finder written in Go
 brew "fzf"
+# Interact with Google Gemini AI models from the command-line
+brew "gemini-cli"
 # GitHub command-line tool
 brew "gh"
 # GNU implementation of the famous stream editor
@@ -146,6 +148,8 @@ cask "amethyst"
 cask "android-platform-tools"
 # Tools for building Android applications
 cask "android-studio"
+# Terminal interface for Antigravity agents
+cask "antigravity-cli"
 # Display management tool
 cask "betterdisplay"
 # Desktop password and login vault

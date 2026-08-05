@@ -47,6 +47,7 @@
 # GitHub Markdown previewer
 # GitHub command-line tool
 # Graphical client for Git version control
+# Interact with Google Gemini AI models from the command-line
 # Internet file retriever
 # Interpreted, interactive, object-oriented programming language
 # JDK from the Eclipse Foundation (Adoptium)
@@ -101,6 +102,7 @@
 # Terminal emulator
 # Terminal emulator that uses platform-native UI and GPU acceleration
 # Terminal emulator, SSH and serial client
+# Terminal interface for Antigravity agents
 # Terminal multiplexer
 # Terminal-based AI coding assistant
 # Tools and libraries to manipulate images in select formats
@@ -145,6 +147,7 @@ brew "ffmpeg"
 brew "flexget"
 brew "fzf"
 brew "gdbm"
+brew "gemini-cli"
 brew "gh"
 brew "glib"
 brew "gnu-sed"
@@ -270,6 +273,7 @@ cask "amethyst"
 cask "android-platform-tools"
 cask "android-studio"
 cask "anki"
+cask "antigravity-cli"
 cask "audacity"
 cask "authy"
 cask "bartender"
