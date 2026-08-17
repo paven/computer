@@ -106,6 +106,7 @@
 # Terminal interface for Antigravity agents
 # Terminal multiplexer
 # Terminal-based AI coding assistant
+# Tool to measure maximum TCP and UDP bandwidth
 # Tools and libraries to manipulate images in select formats
 # Tools for building Android applications
 # Tools for the WireGuard secure network tunnel
@@ -170,6 +171,7 @@ brew "htop"
 brew "httpie"
 brew "hugo"
 brew "imagemagick"
+brew "iperf"
 brew "iperf3"
 brew "isync"
 brew "jdupes"

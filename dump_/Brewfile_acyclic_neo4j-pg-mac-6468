@@ -58,6 +58,8 @@ brew "grip"
 brew "herdr"
 # Tools and libraries to manipulate images in select formats
 brew "imagemagick"
+# Tool to measure maximum TCP and UDP bandwidth
+brew "iperf"
 # Update of iperf: measures TCP, UDP, and SCTP bandwidth
 brew "iperf3"
 # Lightweight and flexible command-line JSON processor
