@@ -16,6 +16,8 @@ brew "bats-core"
 brew "bitwarden-cli"
 # Cloudflare-based speed test with optional TUI
 brew "cloudflare-speed-cli"
+# Cross-platform make
+brew "cmake"
 # Container runtimes on MacOS (and Linux) with minimal setup
 brew "colima"
 # CLI tool for Amazon ECS and AWS Fargate
@@ -36,6 +38,8 @@ brew "fzf"
 brew "gemini-cli"
 # GitHub command-line tool
 brew "gh"
+# Git extension for versioning large files
+brew "git-lfs"
 # GNU implementation of the famous stream editor
 brew "gnu-sed"
 # GNU Transport Layer Security (TLS) Library

@@ -23,6 +23,7 @@
 # Container runtimes on MacOS (and Linux) with minimal setup
 # Control your Sonos system
 # Create, run, and share large language models (LLMs)
+# Cross-platform make
 # Cross-shell prompt for astronauts
 # Customise mouse movements between multiple displays
 # Desktop automation application
@@ -45,6 +46,7 @@
 # GPU-based terminal emulator
 # Generic machine emulator and virtualizer
 # Ghostty-based terminal with vertical tabs and notifications for AI coding agents
+# Git extension for versioning large files
 # GitHub Markdown previewer
 # GitHub command-line tool
 # Graphical client for Git version control
@@ -137,6 +139,7 @@ brew "boost"
 brew "charmbracelet/tap/freeze"
 brew "chruby"
 brew "cloudflare-speed-cli"
+brew "cmake"
 brew "cocoapods"
 brew "colima"
 brew "copilot"
@@ -154,6 +157,7 @@ brew "fzf"
 brew "gdbm"
 brew "gemini-cli"
 brew "gh"
+brew "git-lfs"
 brew "glib"
 brew "gnu-sed"
 brew "gnupg"
