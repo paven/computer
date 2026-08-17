@@ -15,6 +15,7 @@
 # CLI tool for Amazon ECS and AWS Fargate
 # Calendar for professionals and teams
 # Client for the Google Drive storage service
+# Cloudflare-based speed test with optional TUI
 # Collaborative team software
 # Command-line fuzzy finder written in Go
 # Command-line interface for https://speedtest.net bandwidth tests
@@ -110,6 +111,7 @@
 # Tools for the WireGuard secure network tunnel
 # Tracks most-used directories to make cd smarter
 # Unified GUI for command-line AI agents
+# Update of iperf: measures TCP, UDP, and SCTP bandwidth
 # Utility to configure multi-display resolutions and arrangements
 # Utility to uninstall apps and remove leftover files from old/uninstalled apps
 # Video communication and virtual meeting platform
@@ -132,6 +134,7 @@ brew "bitwarden-cli"
 brew "boost"
 brew "charmbracelet/tap/freeze"
 brew "chruby"
+brew "cloudflare-speed-cli"
 brew "cocoapods"
 brew "colima"
 brew "copilot"
@@ -167,6 +170,7 @@ brew "htop"
 brew "httpie"
 brew "hugo"
 brew "imagemagick"
+brew "iperf3"
 brew "isync"
 brew "jdupes"
 brew "jenv"
