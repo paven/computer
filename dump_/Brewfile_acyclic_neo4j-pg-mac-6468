@@ -108,6 +108,8 @@ brew "qrencode"
 brew "rbenv"
 # Rsync for cloud storage
 brew "rclone"
+# Library to build personalized AI powered by what you've seen, said, or heard
+brew "screenpipe"
 # Easily detect and prevent bugs and anti-patterns in your codebase
 brew "semgrep"
 # CLI and dbus interface for WhisperSystems/libsignal-service-java
