@@ -8,10 +8,12 @@
 # Ambitious Vim-fork focused on extensibility and agility
 # Android SDK component
 # Anthropic's official Claude AI desktop app
+# Anti-bikeshedding Kotlin linter with built-in formatter
 # App to build and share containerised applications and microservices
 # Automatic tiling window manager similar to xmonad
 # Bash Automated Testing System
 # CLI and dbus interface for WhisperSystems/libsignal-service-java
+# CLI for generating a Software Bill of Materials from container images
 # CLI tool for Amazon ECS and AWS Fargate
 # Calendar for professionals and teams
 # Client for the Google Drive storage service
@@ -36,6 +38,7 @@
 # Eclipse integrated development environment
 # Emulates the detach feature of screen
 # Execute binaries from Python packages in isolated environments
+# Fast linters runner for Go
 # File system integration
 # Fish shell like syntax highlighting for zsh
 # Fish-like fast/unobtrusive autosuggestions for zsh
@@ -49,6 +52,7 @@
 # Git extension for versioning large files
 # GitHub Markdown previewer
 # GitHub command-line tool
+# Golang security checker
 # Graphical client for Git version control
 # Interact with Google Gemini AI models from the command-line
 # Internet file retriever
@@ -71,6 +75,7 @@
 # Music streaming service
 # Native desktop client for WhatsApp
 # Non-interactive SSH password auth
+# OWASP dependency-check
 # Official Amazon AWS command-line interface
 # Online collaborative whiteboard platform
 # Open source continuous file synchronization application
@@ -102,6 +107,7 @@
 # Send push notifications to your phone or desktop via PUT/POST
 # Shell extension to navigate your filesystem faster
 # Simple, modern, secure file encryption
+# Static code analysis for Kotlin
 # Team communication and collaboration software
 # Terminal emulator
 # Terminal emulator that uses platform-native UI and GPU acceleration
@@ -110,6 +116,7 @@
 # Terminal multiplexer
 # Terminal-based AI coding assistant
 # Tool to measure maximum TCP and UDP bandwidth
+# Toolchain of the web
 # Tools and libraries to manipulate images in select formats
 # Tools for building Android applications
 # Tools for the WireGuard secure network tunnel
@@ -133,6 +140,7 @@ brew "aria2"
 brew "automake"
 brew "awscli"
 brew "bats-core"
+brew "biome"
 brew "bison"
 brew "bitwarden-cli"
 brew "boost"
@@ -143,6 +151,8 @@ brew "cmake"
 brew "cocoapods"
 brew "colima"
 brew "copilot"
+brew "dependency-check"
+brew "detekt"
 brew "displayplacer"
 brew "docker"
 brew "docker", link: false
@@ -163,6 +173,8 @@ brew "gnu-sed"
 brew "gnupg"
 brew "gnutls"
 brew "go"
+brew "golangci-lint"
+brew "gosec"
 brew "gradle"
 brew "gradle@8"
 brew "grip"
@@ -184,6 +196,7 @@ brew "jenv"
 brew "jpeg-xl"
 brew "jq"
 brew "koekeishiya/formulae/skhd"
+brew "ktlint"
 brew "laurentftech/ntfy-macos/ntfy-macos"
 brew "libassuan"
 brew "libffi"
@@ -250,6 +263,7 @@ brew "sshpass"
 brew "starship"
 brew "stow"
 brew "swift-format"
+brew "syft"
 brew "syncthing"
 brew "tailscale"
 brew "tea"
@@ -387,6 +401,8 @@ cask "wezterm"
 cask "whatsapp"
 cask "zoom"
 go "github.com/Southclaws/schemancer"
+go "golang.org/x/vuln/cmd/govulncheck"
+go "honnef.co/go/tools/cmd/staticcheck"
 mas "Actions For Obsidian", id: 1659667937
 mas "Bitwarden", id: 1352778147
 mas "Bredbandskollen", id: 1147976909
@@ -425,10 +441,12 @@ npm "@juicesharp/rpiv-todo"
 npm "@juicesharp/rpiv-web-tools"
 npm "@llblab/pi-telegram"
 npm "@marp-team/marp-cli"
+npm "@nanonets/graft"
 npm "@ollama/pi-web-search"
 npm "bun"
 npm "decktape"
 npm "jiti"
+npm "knip"
 npm "pi-cmux"
 npm "pi-kanban"
 npm "pi-mcp-adapter"
