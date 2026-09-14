@@ -279,6 +279,7 @@ mas "QR Capture", id: 1369524274
 mas "Shortery", id: 1594183810
 mas "TaskForge", id: 6744716215
 mas "WireGuard", id: 1451685025
+mas "Xcode", id: 497799835
 vscode "anysphere.remote-containers"
 vscode "anysphere.remote-ssh"
 vscode "dbaeumer.vscode-eslint"
