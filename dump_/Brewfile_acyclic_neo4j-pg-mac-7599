@@ -86,8 +86,6 @@ brew "lima-additional-guestagents"
 brew "mas"
 # Java-based project management
 brew "maven"
-# Minimal CLI coding agent
-brew "mistral-vibe"
 # Remote terminal application
 brew "mosh"
 # 'traceroute' and 'ping' in a single tool
