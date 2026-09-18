@@ -67,6 +67,7 @@
 # Lightweight and flexible command-line JSON processor
 # Mac App Store command-line interface
 # Manage multiple Node.js versions
+# Markdown editor
 # Matrix collaboration client
 # Menu bar manager
 # Minimal CLI coding agent
@@ -359,6 +360,7 @@ cask "loop"
 cask "lulu"
 cask "macdown"
 cask "macfuse"
+cask "markedit"
 cask "marta"
 cask "meetingbar"
 cask "meld"
