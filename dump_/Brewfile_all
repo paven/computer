@@ -404,6 +404,7 @@ cask "wezterm"
 cask "whatsapp"
 cask "zoom"
 go "github.com/Southclaws/schemancer"
+go "golang.org/x/tools/gopls"
 go "golang.org/x/vuln/cmd/govulncheck"
 go "honnef.co/go/tools/cmd/staticcheck"
 mas "Actions For Obsidian", id: 1659667937
