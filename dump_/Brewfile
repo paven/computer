@@ -2,6 +2,7 @@ tap "acyclic-eu/apps"
 tap "acyclic-eu/eijii"
 tap "anomalyco/tap"
 tap "charmbracelet/tap"
+tap "jetbrains/utils", "https://github.com/JetBrains/homebrew-utils"
 tap "laurentftech/ntfy-macos"
 tap "peonping/tap", "https://github.com/PeonPing/homebrew-tap"
 # Simple, modern, secure file encryption
@@ -160,6 +161,8 @@ brew "zsh-autosuggestions"
 brew "zsh-history-substring-search"
 # Fish shell like syntax highlighting for zsh
 brew "zsh-syntax-highlighting"
+# Official Language Server Protocol for the Kotlin language
+brew "jetbrains/utils/kotlin-lsp", trusted: true
 # Unified GUI for command-line AI agents
 cask "aionui"
 # Automatic tiling window manager similar to xmonad

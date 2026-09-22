@@ -78,6 +78,7 @@
 # Non-interactive SSH password auth
 # OWASP dependency-check
 # Official Amazon AWS command-line interface
+# Official Language Server Protocol for the Kotlin language
 # Online collaborative whiteboard platform
 # Open source continuous file synchronization application
 # Open source programming language to build simple/reliable/efficient software
@@ -194,6 +195,7 @@ brew "iperf3"
 brew "isync"
 brew "jdupes"
 brew "jenv"
+brew "jetbrains/utils/kotlin-lsp", trusted: true
 brew "jpeg-xl"
 brew "jq"
 brew "koekeishiya/formulae/skhd"
@@ -466,6 +468,7 @@ tap "heroku/brew"
 tap "homebrew/bundle"
 tap "homebrew/services"
 tap "iina/mpv-iina"
+tap "jetbrains/utils", "https://github.com/JetBrains/homebrew-utils"
 tap "koekeishiya/formulae"
 tap "laurentftech/ntfy-macos"
 tap "oven-sh/bun"
