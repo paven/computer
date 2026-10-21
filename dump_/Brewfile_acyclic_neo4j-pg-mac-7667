@@ -7,8 +7,6 @@ tap "laurentftech/ntfy-macos"
 tap "peonping/tap", "https://github.com/PeonPing/homebrew-tap"
 # Simple, modern, secure file encryption
 brew "age"
-# Interpreted, interactive, object-oriented programming language
-brew "python@3.14"
 # Official Amazon AWS command-line interface
 brew "awscli"
 # Bash Automated Testing System
@@ -117,6 +115,8 @@ brew "pipx"
 brew "pngpaste"
 # PDF rendering library (based on the xpdf-3.0 code base)
 brew "poppler"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.14"
 # QR Code generation
 brew "qrencode"
 # Ruby version manager
