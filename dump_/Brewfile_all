@@ -50,6 +50,7 @@
 # Generic machine emulator and virtualizer
 # Ghostty-based terminal with vertical tabs and notifications for AI coding agents
 # Git extension for versioning large files
+# Git-compatible distributed version control system
 # GitHub Markdown previewer
 # GitHub command-line tool
 # Golang security checker
@@ -197,6 +198,7 @@ brew "isync"
 brew "jdupes"
 brew "jenv"
 brew "jetbrains/utils/kotlin-lsp", trusted: true
+brew "jj"
 brew "jpeg-xl"
 brew "jq"
 brew "koekeishiya/formulae/skhd"
