@@ -183,8 +183,6 @@ cask "betterdisplay"
 cask "bitwarden"
 # Anthropic's official Claude AI desktop app
 cask "claude"
-# Terminal-based AI coding assistant
-cask "claude-code"
 # Ghostty-based terminal with vertical tabs and notifications for AI coding agents
 cask "cmux"
 # Voice and text chat software
