@@ -100,6 +100,7 @@
 # Port scanning utility for large networks
 # QR Code generation
 # Real time file synchronisation software
+# Records a live graph of AI coding agent sessions from provider hooks
 # Remote terminal application
 # Replacement for RCDefaultApps, written in Swift
 # Rsync for cloud storage
@@ -315,6 +316,7 @@ cask "bitwarden"
 cask "blender"
 cask "calibre"
 cask "cerebro"
+cask "chofter/tap/agent-graph", trusted: true
 cask "claude"
 cask "claude-code"
 cask "cleanshot"
@@ -467,6 +469,7 @@ tap "acyclic-eu/apps"
 tap "acyclic-eu/eijii"
 tap "anomalyco/tap"
 tap "charmbracelet/tap"
+tap "chofter/tap", trusted: true
 tap "hashicorp/tap"
 tap "heroku/brew"
 tap "homebrew/bundle"
