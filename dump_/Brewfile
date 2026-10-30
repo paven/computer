@@ -12,6 +12,8 @@ brew "age"
 brew "awscli"
 # Bash Automated Testing System
 brew "bats-core"
+# Compiler infrastructure and toolchain library for WebAssembly
+brew "binaryen"
 # Toolchain of the web
 brew "biome"
 # Secure and free password manager for all of your devices
@@ -174,6 +176,8 @@ cask "chofter/tap/agent-graph", trusted: true
 cask "aionui"
 # Automatic tiling window manager similar to xmonad
 cask "amethyst"
+# Toolset to implement parts of Android apps in native code
+cask "android-ndk"
 # Android SDK component
 cask "android-platform-tools"
 # Tools for building Android applications
@@ -304,6 +308,7 @@ go "golang.org/x/tools/gopls"
 go "golang.org/x/vuln/cmd/govulncheck"
 go "github.com/Southclaws/schemancer"
 go "honnef.co/go/tools/cmd/staticcheck"
+cargo "cargo-ndk"
 npm "@ifi/pi-extension-subagents"
 npm "@jfim/obsidian-tasks-mcp"
 npm "@juicesharp/rpiv-advisor"

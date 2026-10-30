@@ -22,6 +22,7 @@
 # Command-line fuzzy finder written in Go
 # Command-line interface for https://speedtest.net bandwidth tests
 # Command-line tool to interact with Gitea servers
+# Compiler infrastructure and toolchain library for WebAssembly
 # Container runtimes on MacOS (and Linux) with minimal setup
 # Control your Sonos system
 # Create, run, and share large language models (LLMs)
@@ -125,6 +126,7 @@
 # Tools and libraries to manipulate images in select formats
 # Tools for building Android applications
 # Tools for the WireGuard secure network tunnel
+# Toolset to implement parts of Android apps in native code
 # Tracks most-used directories to make cd smarter
 # Unified GUI for command-line AI agents
 # Update of iperf: measures TCP, UDP, and SCTP bandwidth
@@ -145,6 +147,7 @@ brew "aria2"
 brew "automake"
 brew "awscli"
 brew "bats-core"
+brew "binaryen"
 brew "biome"
 brew "bison"
 brew "bitwarden-cli"
@@ -298,12 +301,14 @@ brew "zoxide"
 brew "zsh-autosuggestions"
 brew "zsh-history-substring-search"
 brew "zsh-syntax-highlighting"
+cargo "cargo-ndk"
 cask "0-ad"
 cask "1password"
 cask "acyclic-eu/apps/eijii-alpha"
 cask "acyclic-eu/apps/eijii-beta"
 cask "aionui"
 cask "amethyst"
+cask "android-ndk"
 cask "android-platform-tools"
 cask "android-studio"
 cask "anki"
