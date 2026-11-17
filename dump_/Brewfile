@@ -198,8 +198,8 @@ cask "discord"
 cask "docker-desktop"
 # Eclipse integrated development environment
 cask "eclipse-ide"
-cask "eijii-alpha"
-cask "eijii-beta"
+cask "acyclic-eu/apps/eijii-alpha"
+cask "acyclic-eu/apps/eijii-beta"
 # Matrix collaboration client
 cask "element"
 # Collaborative team software
