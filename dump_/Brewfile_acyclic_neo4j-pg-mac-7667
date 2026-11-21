@@ -186,7 +186,7 @@ cask "android-studio"
 cask "antigravity-cli"
 # Display management tool
 cask "betterdisplay"
-# Desktop password and login vault
+# Open source desktop password manager with encrypted vault and autofilling
 cask "bitwarden"
 # Anthropic's official Claude AI desktop app
 cask "claude"
